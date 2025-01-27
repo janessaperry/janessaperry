@@ -31,12 +31,13 @@
 ---
 
 ### 💻 Working on...
+- Helping Software Engineering students as a Teaching Assistant at BrainStation (January - March 2025)
 - Refining Press Start, a web app for users to keep track of their video game collection
 
 ---
 
 ### 🌱 Currently Learning  
-- Advanced JavaScript patterns and asynchronous programming
+- Data structures and algorithms
 - Deepening my back-end knowledge (Node.js, Express)
 - Exploring TypeScript and integrating it into projects
 
