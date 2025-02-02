@@ -14,19 +14,13 @@
 ### 🚀 Skills  
 
 #### Front-End Development
-- HTML, CSS, JavaScript, SASS, Tailwind CSS, Bootstrap, React, TypeScript
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vue)](https://skillicons.dev)
 
 #### Back-End Development
-- Node.js, Express, MySQL, REST APIs
-
-#### UI/UX & Design
-- UI Design, Responsive Design, Visual Design, WordPress
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql)](https://skillicons.dev)
 
 #### Tools
-- Git, GitHub, VS Code, PHP Storm, Axios, Postman, Netlify, MySQL Workbench, Chrome DevTools, Figma, Affinity Designer, Affinity Photo
-
-#### Methodologies
-- Agile
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,postman,netlify,npm,figma,ps,ai)](https://skillicons.dev)
 
 ---
 
