@@ -51,7 +51,7 @@
 ---
 
 ### 🎮 Playground  
-- **Latest Adventures**: Genshin Impact, Avatar: Frontiers of Pandora, Baldur's Gate 3
+- **Latest Adventures**: Split Fiction, Stray, Baldur's Gate 3
 - **Recent Reads**: Kingdom of the Wicked, Heartless Hunter, The Broken Earth Trilogy
 
 ---
