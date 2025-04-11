@@ -1,6 +1,6 @@
 ## Hey there, I'm Janessa ✌🏻
 
-**✨ Designer Turned Developer • Creative Problem Solver • Forever Curious, Always Evolving ✨**
+**✨ Developer with a Design Background • Creative Problem Solver • Forever Curious, Always Evolving ✨**
 
 ---
 
@@ -14,33 +14,28 @@
 ### 🚀 Skills  
 
 #### Front-End Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react)](https://skillicons.dev)
 
 #### Back-End Development
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,supabase)](https://skillicons.dev)
 
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,postman,netlify,npm,figma,ps,ai)](https://skillicons.dev)
 
 ---
 
-### 💻 Working on...
-- Helping Software Engineering students as a Teaching Assistant at BrainStation (January - March 2025)
-- Refining Press Start, a web app for users to keep track of their video game collection
-
----
-
-### 🌱 Currently Learning  
-- Data structures and algorithms
-- Deepening my back-end knowledge (Node.js, Express)
-- Exploring TypeScript and integrating it into projects
+### 💻 Building & Exploring
+- Building web apps to level up my full-stack skills
+- Refactoring existing projects with TypeScript and integrating new tools, like error logging and error handling
+- Tackling data structures and algorithms to strengthen problem-solving skills
+- Taking on occasional freelance design projects to stay sharp and keep building on my creative skills
 
 ---
 
 ### 🎓 Education
-- **Diploma in Software Engineering from BrainStation**
-- **Certificates in UX/UI Design from BrainStation**
-- **Bachelor of Commerce from Toronto Metropolitan University**
+- Diploma in **Software Engineering** from BrainStation
+- Certificates in **UX/UI Design** from BrainStation
+- **Bachelor of Commerce** from Toronto Metropolitan University
 
 ---
 
@@ -52,7 +47,7 @@
 
 ### 🎮 Playground  
 - **Latest Adventures**: Split Fiction, Stray, Baldur's Gate 3
-- **Recent Reads**: Kingdom of the Wicked, Heartless Hunter, The Broken Earth Trilogy
+- **Recent Reads**: Heartless Hunter, The Broken Earth Trilogy
 
 ---
 
