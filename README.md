@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,supabase)](https://skillicons.dev)
 
 #### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,phpstorm,webstorm,postman,netlify,npm,figma,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,webstorm,postman,netlify,npm,figma,ps,ai)](https://skillicons.dev)
 
 ---
 
