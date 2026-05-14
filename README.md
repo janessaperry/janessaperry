@@ -46,8 +46,7 @@
 ---
 
 ### 🎮 Playground  
-- **Latest Adventures**: Split Fiction, Stray, Baldur's Gate 3
-- **Recent Reads**: Heartless Hunter, The Broken Earth Trilogy
+- **Latest Adventures**: Pokopia, South of Midnight, Octopath Traveler 0
 
 ---
 
